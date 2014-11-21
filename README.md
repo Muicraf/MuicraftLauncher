@@ -1,4 +1,4 @@
-Muicraft Launcher
+[Muicraft Launcher] (http://muicraf.github.io/MuicraftLauncher)
 ================
 
 This project provides an open-source Minecraft launcher platform for downloading,
