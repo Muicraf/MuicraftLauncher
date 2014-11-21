@@ -12,15 +12,15 @@ This launcher is maintained by Heracles421, and is a forge from sk89q's project,
 It has been primarily developed for Muicraft server (http://www.muicraft.net), but you can use it for your own modpack or
 server.
 
-~ One of Minecraft's oldest launchers -- since Minecraft Alpha
-~ Requires almost no configuration files to make a modpack
-~ Add a new mod by dropping in the .jar (and its configuration)
-~ Remove a mod by deleting its .jar (and configuration).
-~ Builds **server** modpacks with no extra configuration
-~ Advanced download system: incremental, file removal detection, optional feature/mod selection, etc.
-~ Very easy for users to use and install modpacks
-~ Pretty well-documented with easy-to-understand, well-organized code*
-~ Open source!
+* One of Minecraft's oldest launchers -- since Minecraft Alpha
+* Requires almost no configuration files to make a modpack
+* Add a new mod by dropping in the .jar (and its configuration)
+* Remove a mod by deleting its .jar (and configuration).
+* Builds **server** modpacks with no extra configuration
+* Advanced download system: incremental, file removal detection, optional feature/mod selection, etc.
+* Very easy for users to use and install modpacks
+* Pretty well-documented with easy-to-understand, well-organized code*
+* Open source!
 
 *Except for the Launcher frame class. That one is pretty bad.
 
