@@ -9,7 +9,7 @@ Introduction
 
 This launcher is maintained by Heracles421, and is a forge from sk89q's project, who writes WorldEdit, WorldGuard, and so on.
 
-It has been primarily developed for Muicraft server (http://www.muicraft.net), but you can use it for your own modpack or
+It has been primarily developed for [Muicraft server] (http://www.muicraft.net), but you can use it for your own modpack or
 server.
 
 * One of Minecraft's oldest launchers -- since Minecraft Alpha
